@@ -15,6 +15,7 @@ function agregarAmigo() {
         listaAmigos.push(amigo);
         console.log(listaAmigos)
         cleanBox();
+        mostrarLista();
 
     }
 
@@ -27,4 +28,18 @@ function agregarAmigo() {
 
 function cleanBox() {
     document.getElementById('amigo').value = '';
+}
+
+function mostrarLista() {
+    // Seleccionando la lista
+    let lista = document.getElementById('listaAmigos');
+    // Dejándola vacía para evitar duplicados
+    lista.innerHTML = "";
+    
+    // Iterando sobre la lista de amigos
+    for (let i = 0; i < listaAmigos.length; i++) {
+        let li = document.createElement('li'); // Cambié 'i' por 'li'
+        li.textContent = listaAmigos[i]; // Asignando el nombre del amigo
+        lista.appendChild(li); // Agregando el elemento a la lista
+    }
 }
