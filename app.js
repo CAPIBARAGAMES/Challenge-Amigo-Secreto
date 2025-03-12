@@ -43,3 +43,19 @@ function mostrarLista() {
         lista.appendChild(li); // Agregando el elemento a la lista
     }
 }
+
+function sortearAmigo() {
+    let amigoGanador = "";
+    if (listaAmigos != []) {
+        let indiceGanador = Math.floor(Math.random()*listaAmigos.length);
+        amigoGanador = listaAmigos[indiceGanador]
+        document.getElementById("resultado").innerHTML = amigoGanador;
+        
+        
+        console.log(amigoGanador)
+    } else{
+        alert("Ingresa nombres")
+    }
+}
+
+
