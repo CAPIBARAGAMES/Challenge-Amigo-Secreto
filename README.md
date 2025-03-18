@@ -25,6 +25,7 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios ingresa
 4. ¡El sistema elegirá un nombre al azar y lo mostrará en pantalla! 🎊  
 
 Asi se ve:
-![Ejemplo de imagen](https://capibaragames.github.io/Challenge-Amigo-Secreto/)
+![Vista previa del proyecto](Amigo Secreto.png)
+
 
 
