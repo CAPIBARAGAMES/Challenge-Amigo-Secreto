@@ -24,8 +24,8 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios ingresa
 3. Cuando todos los nombres estén ingresados, presiona **"Sortear Amigo"**.  
 4. ¡El sistema elegirá un nombre al azar y lo mostrará en pantalla! 🎊  
 
-Asi se ve:
-![Vista previa del proyecto](Amigo Secreto.PNG)
+
+![Vista previa del proyecto](AmigoSecreto.PNG)
 
 
 
