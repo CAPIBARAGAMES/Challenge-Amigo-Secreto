@@ -24,13 +24,7 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios ingresa
 3. Cuando todos los nombres estén ingresados, presiona **"Sortear Amigo"**.  
 4. ¡El sistema elegirá un nombre al azar y lo mostrará en pantalla! 🎊  
 
-## 📂 Instalación y ejecución  
+Asi se ve:
+![Ejemplo de imagen](https://capibaragames.github.io/Challenge-Amigo-Secreto/)
 
-Si deseas ejecutar el proyecto en tu máquina local:  
-
-```bash
-git clone https://github.com/tu-usuario/amigo-secreto.git
-cd amigo-secreto
-
-![Amigo Secreto](https://github.com/user-attachments/assets/dfe5fa58-daa0-460f-bbd8-5472366e8b1c)
 
