@@ -25,7 +25,7 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios ingresa
 4. ¡El sistema elegirá un nombre al azar y lo mostrará en pantalla! 🎊  
 
 Asi se ve:
-![Vista previa del proyecto](Amigo Secreto.png)
+![Vista previa del proyecto](Amigo Secreto.PNG)
 
 
 
